@@ -32,7 +32,7 @@ const Login = ({
   };
   const onSubmit = (e) => {
     e.preventDefault();
-    console.log({ username, password });
+
     log_in({ username, password, history });
     if (error) {
       setAlert(error, "danger");
