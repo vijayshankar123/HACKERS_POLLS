@@ -1,7 +1,7 @@
 I have developed full stack application meeting all the requirements.
 
-WEBSITE URL :
-GITHUB URL :
+WEBSITE URL :https://fathomless-beach-93722.herokuapp.com/
+GITHUB URL :https://github.com/vijayshankar123/HACKERS_POLLS
 
 
 mongodb username:user
