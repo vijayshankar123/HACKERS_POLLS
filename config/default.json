@@ -1,0 +1,4 @@
+{
+  "MONGOURI": "mongodb+srv://user:user123@cluster0.0fa5x.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "JWTSECRET": "SECRET"
+}
